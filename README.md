@@ -63,7 +63,7 @@ There is some clunkiness to managing the list which I'll touch on later. However
 
 ***And now, the last two AMS items.  ***
  #### A tight fit
- 
+ 1 kilogram spools of print filament come in a range of diameters and widths. 
 
 #### lastly, WTF?
 Ensuring filament is dry when it is use is important, especially with any filament material other than PLA. It's important with PLA, but PLA is much less hygroscopic than most other materials so absorbs moisture far more slowly.
