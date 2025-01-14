@@ -89,7 +89,18 @@ I'd recommend if you buy desiccant in bulk, make sure you're getting beads with 
   
 ## Specs - umm, sorta.  
   
-## Print quality  
+### Lies, Damned Lies, and Maximum Build Dimensions  
   
+### Print Speeds, 
+significantly flow rate limited well under spec  
+layer adhesion limited well under spec  
+  
+## Print quality  
+Decent, not great though generally good enough.  
+   
 ## Support  
+  parts  
+  documentation  
+  other support  
+  Makerworld  
   
