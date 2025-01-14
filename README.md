@@ -90,6 +90,9 @@ I'd recommend if you buy desiccant in bulk, make sure you're getting beads with 
 ## Specs - umm, sorta.  
   
 ### Lies, Damned Lies, and Maximum Build Dimensions  
+The specification lists 256 × 256 × 256 mm.  
+256mm on the z-access is correct.  
+The build plate itself is 256 x 256 mm, but not all of it is available for printing. And, for multicolor printing, even less.  
   
 ### Print Speeds, 
 significantly flow rate limited well under spec  
