@@ -72,7 +72,9 @@ Ensuring filament is dry when it is use is important, especially with any filame
 To help with this the AMS lid seals well to help keep moisture out of the AMS and includes two installed desiccant packs to absorb any moisture within the AMS.  
   
 Regarding the included and installed desiccant packs the manual says the following:  
+<blockquote>
 **Note: Please check the status of the desiccant every two weeks, if the desiccant has failed, please replace it in time. If the desiccant is not replaced for a long time, it will lose its ability to absorb water, thus losing its ability to protect the dried filament. In addition, when it is not replaced for more than 3 months, the desiccant may also leak water, short-circuit, or damage the circuit or electronic components inside the AMS.**  
+</blockquote>
   
 The politest comment I can come up with -by far- is, **What the Hell were they thinking?**  
 Get rid of the desiccant packs from Hell ASAP! Then print and use one of the numerous desiccant container models designed to use with the AMS.  
