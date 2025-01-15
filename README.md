@@ -110,9 +110,9 @@ These two pictures of of the same location along the vertical edge of a 240mm ta
     <img src="PETG_edge.png" hspace="10" valign="top" >
     <img src="PETG-edge-closeup.png" hspace="10" valign="top" >
 </p>
-This example is also purely PETG. It exhibits some surface quality issues. However, this case has many parts which must fit together with precision. All the parts were printed on my X! and there were no fitting issues.
+##### This example is also purely PETG. It exhibits some surface quality issues. However, this case has many parts which must fit together with precision. All the parts were printed on my X! and there were no fitting issues.
 <p>
-    <img src="tdjrUltimoPaintCase.jpg" hspace="10" valign="top" >
+    <img src="https://github.com/tillmanjr/bambu-x1carbon-ams-a-year/blob/main/tdjrUltimoPaintCase.jpg?raw=true" hspace="10" valign="top" >
 </p>
 
    
