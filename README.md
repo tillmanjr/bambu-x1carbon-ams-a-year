@@ -99,21 +99,17 @@ significantly flow rate limited well under spec
 layer adhesion limited well under spec  
   
 ## Print quality  
-Print quality with PLA and PLA variants is generally quite good. I wouldn't classify it as great, but overall the results are nice.  
-  
-Print quality with PETG -my preferred filament- is less consistent. With some tuning the X1 will print well with PETG ... and fast (see Print Speeds below).  PETG stringing can be almost eliminated, but on large prints there are always a few whispies, easily taken care of. Vertical walls print with faint ripples, or so they appear. The walls are strong, when measuring with calipers one can find slight variations, but so far never enough to create part fit issues. I have done significant PETG printing with the X1 which required precise fit, all without issue. The apparent slight ripples my simply be due to a minor difference in ringing when printing PETG vs PLA. Printing with PETG on MK4S does not show this minor cosmetic aberation.  
-  
-With PETG expect to spend a bit more time tweaking pressure advance. Yes, that is always true, but with as fast as on can print PETG (I cap PETG flow rate at 32 mm^3/s which the slicer uses all of for infill) getting that deceleration retraction just right is a bit more work. The XL handles it pretty well, though along edges one may note a very slight depression followed by a slight bulge to the edge. The resultant edge size in almost always correct, it is just not crisp.  
-These two pictures of of the same location along the vertical edge of a 240mm tall PETG print. The PETG was brand new and had been dried for 12 hours before printing. (a part for the Hydra Pro AMS mod).   
-
 <p>
-    <img src="PETG_edge.png" hspace="10" valign="top" >
-    <img src="PETG-edge-closeup.png" hspace="10" valign="top" >
-</p>
-##### This example is also purely PETG. It exhibits some surface quality issues. However, this case has many parts which must fit together with precision. All the parts were printed on my X! and there were no fitting issues.
+    <img src="https://github.com/tillmanjr/bambu-x1carbon-ams-a-year/blob/main/PETG_edge.png?raw=true" hspace="10" valign="top" >
+    <img src="https://github.com/tillmanjr/bambu-x1carbon-ams-a-year/blob/main/PETG-edge-closeup.png?raw=true" hspace="10" valign="top" >
+</p>  
+This example is also purely PETG. It exhibits some surface quality issues. However, this case has many parts which must fit together with precision. All the parts were printed on my X! and there were no fitting issues.  
 <p>
     <img src="https://github.com/tillmanjr/bambu-x1carbon-ams-a-year/blob/main/tdjrUltimoPaintCase.jpg?raw=true" hspace="10" valign="top" >
 </p>
+  
+In summary, the X1's print quality is more than acceptable with PLA variants and acceptable with PETG.
+  
 
    
 ## Support  
