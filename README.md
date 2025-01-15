@@ -105,11 +105,10 @@ Print quality with PETG -my preferred filament- is less consistent. With some tu
   
 With PETG expect to spend a bit more time tweaking pressure advance. Yes, that is always true, but with as fast as on can print PETG (I cap PETG flow rate at 32 mm^3/s which the slicer uses all of for infill) getting that deceleration retraction just right is a bit more work. The XL handles it pretty well, though along edges one may note a very slight depression followed by a slight bulge to the edge. The resultant edge size in almost always correct, it is just not crisp.  
 These two pictures of of the same location along the vertical edge of a 240mm tall PETG print. The PETG was brand new and had been dried for 12 hours before printing. (a part for the Hydra Pro AMS mod).   
-![PETG Edge aberration](PETG_edge.png)  ![PETG edge aberration, up close ](PETG-edge-closeup.png)
 
 <p>
-    <img src="PETG_edge.png" hspace="10" >
-    <img src="PETG-edge-closeup.png" hspace="10" >
+    <img src="PETG_edge.png" hspace="10" valign="top" >
+    <img src="PETG-edge-closeup.png" hspace="10" valign="top" >
 </p>
    
 ## Support  
