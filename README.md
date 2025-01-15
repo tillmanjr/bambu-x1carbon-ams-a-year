@@ -87,17 +87,6 @@ A quick comment on desiccants, don't buy the blue (pink when saturated) desiccan
   
 I'd recommend if you buy desiccant in bulk, make sure you're getting beads with a minimum size of 2 mm, 3 mm if reasonable.  
   
-## Specs - umm, sorta.  
-  
-### Lies, Damned Lies, and Maximum Build Dimensions  
-The specification lists 256 × 256 × 256 mm.  
-256mm on the z-access is correct.  
-The build plate itself is 256 x 256 mm, but not all of it is available for printing. And, for multicolor printing, even less.  
-  
-### Print Speeds, 
-significantly flow rate limited well under spec  
-layer adhesion limited well under spec  
-  
 ## Print quality  
 <p>
     <img src="https://github.com/tillmanjr/bambu-x1carbon-ams-a-year/blob/main/PETG_edge.png?raw=true" hspace="10" valign="top" >
@@ -109,8 +98,19 @@ This example is also purely PETG. It exhibits some surface quality issues. Howev
 </p>
   
 In summary, the X1's print quality is more than acceptable with PLA variants and acceptable with PETG.
+   
+## Specs - umm, sorta.  
+   
+### Lies, Damned Lies, and Maximum Build Dimensions   
+The specification lists 256 × 256 × 256 mm.  
+256mm on the z-access is correct.  
+The build plate itself is 256 x 256 mm, but not all of it is available for printing. And, for multicolor printing, even less.  
   
-
+### Print Speeds,  
+significantly flow rate limited well under spec  
+layer adhesion limited well under spec  
+   
+## About the enclosure     
    
 ## Support  
   parts  
