@@ -1,4 +1,3 @@
-﻿
 # Bambu X1 Carbon & AMS, One Year In
 ## Introduction
 It has been just over a year since my X1 Carbon and AMS arrived. It was certainly a nice addition to my existing stable of printers. It has proved a useful and reliable printer. And while this may not be quite so important, it is a pleasant piece of equipment to work with. Nonetheless, there have been a number of issues with it most of which I have been able to effectively address.    
@@ -102,10 +101,16 @@ Print quality with PETG -my preferred filament- is less consistent. With some tu
   
 With PETG expect to spend a bit more time tweaking pressure advance. Yes, that is always true, but with as fast as one can print PETG (I cap PETG flow rate at 32 mm^3/s which the slicer uses all of for infill) getting that deceleration retraction just right is a bit more work. The XL handles it pretty well, though along the edges one may note a very slight depression followed by a slight bulge to the edge. The resultant edge size in almost always correct, it is just not crisp.  
 <h4>PETG examples:</h4>
-<div>
-    <img src="https://github.com/tillmanjr/bambu-x1carbon-ams-a-year/blob/main/PETG_edge.png?raw=true" hspace="10" valign="top" width="400px" height="800px" />
-    <img src="https://github.com/tillmanjr/bambu-x1carbon-ams-a-year/blob/main/PETG-edge-closeup.png?raw=true" hspace="10" valign="top" width="400px" height="800px" />
-</div>  
+<table>
+<tr>
+<td>
+    <img src="https://github.com/tillmanjr/bambu-x1carbon-ams-a-year/blob/main/PETG_edge.png?raw=true" hspace="10" valign="top" width="350px" height="800px" />
+</td>
+<td>
+    <img src="https://github.com/tillmanjr/bambu-x1carbon-ams-a-year/blob/main/PETG-edge-closeup.png?raw=true" hspace="10" valign="top" width="350px" height="800px" />
+</td>
+</tr>
+</table>  
 <p>
 <i>Two pictures showing the same location along the vertical edge of a 240mm tall PETG print. The PETG was brand new and dried for 12 hours before printing. The print is of a part for the Hydra Pro AMS mod and printed using 3 walls and a gyroid infill.  The resulting print is good, though cosmetically it may be lacking at some points.</i>  
 </p>
@@ -128,11 +133,39 @@ The specification lists 256 × 256 × 256 mm.
 
 The build plate measures 256 mm x 256 mm. While the dimensions of the build plate line up with Bambu's published build dimensions not all of the build plate is available for printing. And, for multicolor printing, even less.  
   
-Let's start with a partial screenshot from BambuStudio.  
-<div>
- <img src="https://github.com/tillmanjr/bambu-x1carbon-ams-a-year/blob/main/bambustudio_build-plate_with-drawer_from-front.png"?raw=true" hspace="10" valign="top" width="446px" height="386px" /> 
- <img src="https://github.com/tillmanjr/bambu-x1carbon-ams-a-year/blob/main/bambustudio_build-plate_with-drawer_from-rear.png"?raw=true" hspace="10" valign="top" width="453px" height="470px" />  
-</div> 
+Let's start with some partial screenshots from BambuStudio.   
+
+The following four images portray the same model.  
+
+<table>  
+  <tr>  
+    <td>  
+      <img src=https://github.com/tillmanjr/bambu-x1carbon-ams-a-year/blob/main/bambustudio_build-plate_with-drawer_from-front.png?raw=true hspace="10" valign="top"/>  
+    </td>
+    <td>  
+      <img src=https://github.com/tillmanjr/bambu-x1carbon-ams-a-year/blob/main/bambustudio_build-plate_with-drawer_from-rear.png?raw=true hspace="10" valign="top"/>  
+    </td>  
+  </tr>
+</table>  
+<i>The left image is from the front left (#1) and the right image is from the rear right (#2). </i>  
+<table>  
+  <tr>  
+    <td>  
+      <img src=https://github.com/tillmanjr/bambu-x1carbon-ams-a-year/blob/main/bambustudio_build-plate_with-drawer_calibration-zone.png?raw=true hspace="10" valign="top"/>  
+    </td>
+</tr>
+</table>
+<table>
+<i>This image is close up of the front edge (#3).</i>  
+<tr>
+    <td>  
+      <img src=https://github.com/tillmanjr/bambu-x1carbon-ams-a-year/blob/main/bambustudio_build-plate_empty_calibration-zone?raw=true hspace="10" valign="top"/>  
+    </td>  
+  </tr>
+</table>  
+<i>This image is the same as #3 without the model occluding the view (#4). </i>  
+
+<img src=https://github.com/tillmanjr/bambu-x1carbon-ams-a-year/blob/main/bambustudio_build-plate_with-drawer_exclusion-zone.png?raw=true hspace="10" valign="top"/>  
   
 ### Print Speeds,  
 significantly flow rate limited well under spec  
