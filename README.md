@@ -1,4 +1,3 @@
-﻿
 # Bambu X1 Carbon & AMS, One Year In
 ## Introduction
 It has been just over a year since my X1 Carbon and AMS arrived. It was certainly a nice addition to my existing stable of printers. It has proved a useful and reliable printer. And while this may not be quite so important, it is a pleasant piece of equipment to work with. Nonetheless, there have been a number of issues with it most of which I have been able to effectively address.    
@@ -167,7 +166,6 @@ The following four images portray the same model.
 <i>This image is the same as #3 without the model occluding the view (#4). </i>  
 
 <img src=https://github.com/tillmanjr/bambu-x1carbon-ams-a-year/blob/main/bambustudio_build-plate_with-drawer_exclusion-zone.png?raw=true hspace="10" valign="top"/>  
-</img>
   
 ### Print Speeds,  
 significantly flow rate limited well under spec  
