@@ -1,3 +1,4 @@
+﻿
 # Bambu X1 Carbon & AMS, One Year In
 ## Introduction
 It has been just over a year since my X1 Carbon and AMS arrived. It was certainly a nice addition to my existing stable of printers. It has proved a useful and reliable printer. And while this may not be quite so important, it is a pleasant piece of equipment to work with. Nonetheless, there have been a number of issues with it most of which I have been able to effectively address.    
@@ -116,15 +117,22 @@ With PETG expect to spend a bit more time tweaking pressure advance. Yes, that i
 <i>The case pictured here was printed with PETG. It exhibits some ((arguably) minor surface quality issues. This case has many parts which must fit together with precision. All the parts were printed on my X1 and there were no resultant fitting issues.</i>  
 </p>  
   
-In summary, the X1's print quality is more than acceptable with PLA variants and acceptable to good with PETG.
+In summary, the X1's print quality is more than acceptable with PLA variants and acceptable-to-good with PETG.
   
    
 ## Specs - umm, sorta.  
    
 ### Lies, Damned Lies, and Maximum Build Dimensions   
 The specification lists 256 × 256 × 256 mm.  
-256mm on the z-access is correct.  
-The build plate itself is 256 x 256 mm, but not all of it is available for printing. And, for multicolor printing, even less.  
+256mm on the z-access appears to be correct.  
+
+The build plate measures 256 mm x 256 mm. While the dimensions of the build plate line up with Bambu's published build dimensions not all of the build plate is available for printing. And, for multicolor printing, even less.  
+  
+Let's start with a partial screenshot from BambuStudio.  
+<div>
+ <img src="https://github.com/tillmanjr/bambu-x1carbon-ams-a-year/blob/main/bambustudio_build-plate_with-drawer_from-front.png"?raw=true" hspace="10" valign="top" width="446px" height="386px" /> 
+ <img src="https://github.com/tillmanjr/bambu-x1carbon-ams-a-year/blob/main/bambustudio_build-plate_with-drawer_from-rear.png"?raw=true" hspace="10" valign="top" width="453px" height="470px" />  
+</div> 
   
 ### Print Speeds,  
 significantly flow rate limited well under spec  
