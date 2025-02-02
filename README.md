@@ -154,12 +154,17 @@ The following four images portray the same model.
     <td>  
       <img src=https://github.com/tillmanjr/bambu-x1carbon-ams-a-year/blob/main/bambustudio_build-plate_with-drawer_calibration-zone.png?raw=true hspace="10" valign="top"/>  
     </td>
+</tr>
+</table>
+<table>
+<i>This image is close up of the front edge (#3).</i>  
+<tr>
     <td>  
       <img src=https://github.com/tillmanjr/bambu-x1carbon-ams-a-year/blob/main/bambustudio_build-plate_empty_calibration-zone?raw=true hspace="10" valign="top"/>  
     </td>  
   </tr>
 </table>  
-<i>The left image is close-up of the front edge (#3) and the right image is the same without the model occluding the view (#4). </i>  
+<i>This image is the same as #3 without the model occluding the view (#4). </i>  
 
 <img src=https://github.com/tillmanjr/bambu-x1carbon-ams-a-year/blob/main/bambustudio_build-plate_with-drawer_exclusion-zone.png?raw=true hspace="10" valign="top"/>  
 </img>
